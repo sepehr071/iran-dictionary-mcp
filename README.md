@@ -88,10 +88,6 @@ Single site:
 - Vajehyab engine excerpts are about 200 characters; use `dic_lookup(full=True)` or `dic_vajehyab_entry` for the whole entry.
 - Dictionary text is third-party content. Both sites answer from outside Iran.
 
-## How it works
-
-Neither site has a public API. Abadis pages are fetched and parsed as HTML; Vajehyab is read through its own search engine JSON and the data embedded in its entry pages. The tools were mapped in Chrome and checked against the real pages on 2026-11-16 (meanings, 19 synonyms, antonyms, English translation with examples, first names). One mismatch found there (synonym lists that mention the word) is fixed in `dic_synonyms`.
-
 ## فارسی
 
 <div dir="rtl">
