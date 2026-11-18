@@ -1,6 +1,6 @@
 [project]
 name = "iran-dictionary-mcp"
-version = "0.1.1"
+version = "0.1.2"
 description = "Unofficial read-only MCP server for Persian dictionaries Abadis and Vajehyab: Dehkhoda, Moein, Amid, synonyms, antonyms, English and Arabic translation, names."
 readme = "README.md"
 license = "PolyForm-Noncommercial-1.0.0"
